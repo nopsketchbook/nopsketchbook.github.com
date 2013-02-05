@@ -50,6 +50,10 @@ a:active {
   outline: 0;
 }
 
+#nav ul a {
+	display:block;
+	}
+
 sub,
 sup {
   position: relative;
