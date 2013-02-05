@@ -53,27 +53,37 @@ body {
 /* MYYY SHHAPPPEESSS START HEEERRREEE*/
 /* MYYY SHHAPPPEESSS START HEEERRREEE*/
 
+body   {background-color:teal;
+		}
 
-#trunk {background-color:#8a643b;
-		height:300px;
-        width:100px;
-        max-width:50px;
-        border-radius:15px;
+#filter {background-color:#8a643b;
+		height:60px;
+        width:150px;
+        border-radius:5px;
         position:absolute;
   		top: 300px;
-  		left: 500px;
+  		left: 300px;
         }
         
-#branch1 {background-color:#8a643b;
-		height:200px;
-        width:10px;
-        border-radius:15px;
+#paper {background-color:white;
+		height:60px;
+        width:380px;
         position:absolute;
-        top: 200px;
-        left: 400px;
-        -webkit-transform-origin:0 50%;
-   		-webkit-transform:rotate(-45deg);
+        top: 300px;
+        left: 445px;
         }
         
-
-
+#fire  {background-color:#a11010;
+		height:60px;
+		width:50px;
+		border-radius:5px;
+		position:absolute;
+		top:300px;
+		left:790px;
+		}
+		
+#smoke-curl1 {background-color:#b3abab;
+		position: relative;
+  		width: 100px;
+ 		height: 100px;
+ 		}
